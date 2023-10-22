@@ -1,4 +1,8 @@
-# In Python, chained conditionals use the elif keyword (short for "else if") to check multiple conditions in a sequential manner. Unlike nested conditionals where one conditional statement is embedded within another, chained conditionals are a flat sequence of conditions to be checked. Once a condition is met, the corresponding code block is executed, and the rest of the conditions are skipped.
+# In Python, chained conditionals use the elif keyword (short for "else if") to 
+# check multiple conditions in a sequential manner. Unlike nested conditionals where 
+# one conditional statement is embedded within another, chained conditionals are 
+# a flat sequence of conditions to be checked. Once a condition is met, the 
+# corresponding code block is executed, and the rest of the conditions are skipped.
 
 # if condition1:
 #     do this

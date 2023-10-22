@@ -1,4 +1,9 @@
-# Boolean expressions are constructs in programming that evaluate to either true or false. They are commonly used in control flow structures like if, while, and for loops to make decisions or to continue or break a loop. Boolean expressions are built using relational operators (like <, >, ==, !=, etc.), logical operators (like &&, ||, ! in languages 
+# Boolean expressions are constructs in programming that evaluate to either 
+# true or false. They are commonly used in control flow structures like 
+# if, while, and for loops to make decisions or to continue or break a loop. 
+# Boolean expressions are built using relational operators (like <, >, ==, !=, etc.), 
+# logical operators (like &&, ||, ! in languages 
+
 x = (1==1)
 print(x) # True
 print(type(x)) # class -> bool

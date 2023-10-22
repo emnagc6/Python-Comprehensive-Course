@@ -1,4 +1,8 @@
-# Nested conditionals involve placing one or more conditional statements (if, else if, else) inside another conditional statement. This structure allows for more complex decision-making in programs. Essentially, nested conditionals are used to test multiple conditions and execute different code blocks based on those conditions.
+# Nested conditionals involve placing one or more conditional statements 
+# (if, else if, else) inside another conditional statement. This structure allows 
+# for more complex decision-making in programs. Essentially, nested conditionals 
+# are used to test multiple conditions and execute different code blocks based on 
+# those conditions.
 
 # if condition:
 #     if another condition:
