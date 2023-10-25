@@ -17,7 +17,7 @@ y = 15
 # Let's sort x and y
 
 if x > y:
-    print("x is greater then y")
+    print("x is greater than y")
 else:
     if x < y:
         print("y is greater than x")
